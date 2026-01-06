@@ -1,0 +1,47 @@
+[Adblock Plus 2.0]
+! Version: 202601061248
+! Title: VirtualizationBlacklists
+||86box.net^
+||apponfly.com^
+||bhyve.org^
+||bochs.sourceforge.io^
+||colinux.org^
+||collabvm.org^
+||computernewb.com^
+||copy.sh^
+||crustywindo.ws^
+||cvm.madz.mov
+||cvm.enixnet.com^
+||docker.com^
+||dosbox.org^
+||dosemu.org^
+||files.rg-adguard.net^
+||forums.mydigitallife.net^
+||getutm.app
+||getvmtek.com^
+||libvirt.org^
+||linux-kvm.org^
+||looking-glass.io^
+||netboot.xyz^
+||now.gg^
+||offidocs.com^
+||oldschoolos.com^
+||openvz.org^
+||onworks.net^
+||os.click^
+||osboxes.org^
+||ovirt.org^
+||proxmox.com^
+||qemu.org^
+||scummvm.org^
+||socket.computer^
+||virt-manager.org^
+||virtualbox.org^
+||vm1.hddnetworks.xyz^
+||vm1.skycore.website^
+||vm2.hddnetworks.xyz^
+||vm3.hddnetworks.xyz^
+||vm3.skycore.website^
+||vmware.com^
+||webcatalog.io^
+||xenproject.org^
